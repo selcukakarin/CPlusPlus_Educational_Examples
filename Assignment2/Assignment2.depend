@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528308438 source:c:\users\microman\documents\assignment2\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
